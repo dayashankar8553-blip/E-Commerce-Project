@@ -1,4 +1,4 @@
-# 📊 E-Commerce P&L Dashboard | Power BI Project
+# 📊 E-Commerce Project
 
 ## 🔍 Overview
 This project presents a comprehensive Profit & Loss (P&L) analysis of an E-commerce business using Power BI. The dashboard provides insights into revenue, profitability, customer behavior, and operational efficiency.
